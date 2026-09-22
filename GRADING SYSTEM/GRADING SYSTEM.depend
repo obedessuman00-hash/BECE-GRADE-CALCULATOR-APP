@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789951622 source:c:\users\obed essuman\documents\c++\grading system\main.cpp
+	<iostream>
+	<limits>
+
